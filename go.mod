@@ -1,3 +1,3 @@
-module github.com/Lunarisnia/gin-bind-query
+module github.com/Lunarisnia/gbq
 
 go 1.22
